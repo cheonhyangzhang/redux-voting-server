@@ -3,6 +3,8 @@ import {expect} from 'chai';
 
 import {setEntries, next, vote} from '../src/core';
 
+
+
 describe('application logic', () => {
 
   describe('setEntries', () => {
